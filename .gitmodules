@@ -1,0 +1,6 @@
+[submodule "hello-app-fe"]
+	path = hello-app-fe
+	url = https://github.com/longlt201203/hello-app-fe.git
+[submodule "hello-app-api"]
+	path = hello-app-api
+	url = https://github.com/longlt201203/hello-app-api.git
